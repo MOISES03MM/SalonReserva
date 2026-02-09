@@ -1,0 +1,669 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.application\\services\\reservaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|solutionrelative:bookingeventos.application\\services\\reservaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49318BB2-4AAB-B15F-79ED-40D7B1406B05}|BookingEventos.Api\\BookingEventos.Api.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49318BB2-4AAB-B15F-79ED-40D7B1406B05}|BookingEventos.Api\\BookingEventos.Api.csproj|solutionrelative:bookingeventos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49318BB2-4AAB-B15F-79ED-40D7B1406B05}|BookingEventos.Api\\BookingEventos.Api.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.api\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49318BB2-4AAB-B15F-79ED-40D7B1406B05}|BookingEventos.Api\\BookingEventos.Api.csproj|solutionrelative:bookingeventos.api\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15903390-CCF3-BBE1-BEB7-8F222F1249E6}|BookingEventos.Domain\\BookingEventos.Domain.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.domain\\exception\\negocioexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15903390-CCF3-BBE1-BEB7-8F222F1249E6}|BookingEventos.Domain\\BookingEventos.Domain.csproj|solutionrelative:bookingeventos.domain\\exception\\negocioexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49318BB2-4AAB-B15F-79ED-40D7B1406B05}|BookingEventos.Api\\BookingEventos.Api.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.api\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49318BB2-4AAB-B15F-79ED-40D7B1406B05}|BookingEventos.Api\\BookingEventos.Api.csproj|solutionrelative:bookingeventos.api\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.application\\dtos\\reservacreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|solutionrelative:bookingeventos.application\\dtos\\reservacreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.application\\dtos\\usuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|solutionrelative:bookingeventos.application\\dtos\\usuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49318BB2-4AAB-B15F-79ED-40D7B1406B05}|BookingEventos.Api\\BookingEventos.Api.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.api\\controllers\\bartendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49318BB2-4AAB-B15F-79ED-40D7B1406B05}|BookingEventos.Api\\BookingEventos.Api.csproj|solutionrelative:bookingeventos.api\\controllers\\bartendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.application\\dtos\\bartendercreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|solutionrelative:bookingeventos.application\\dtos\\bartendercreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49318BB2-4AAB-B15F-79ED-40D7B1406B05}|BookingEventos.Api\\BookingEventos.Api.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.api\\controllers\\saloncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49318BB2-4AAB-B15F-79ED-40D7B1406B05}|BookingEventos.Api\\BookingEventos.Api.csproj|solutionrelative:bookingeventos.api\\controllers\\saloncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.application\\services\\salonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|solutionrelative:bookingeventos.application\\services\\salonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.application\\services\\bartenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|solutionrelative:bookingeventos.application\\services\\bartenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49318BB2-4AAB-B15F-79ED-40D7B1406B05}|BookingEventos.Api\\BookingEventos.Api.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.api\\controllers\\djcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49318BB2-4AAB-B15F-79ED-40D7B1406B05}|BookingEventos.Api\\BookingEventos.Api.csproj|solutionrelative:bookingeventos.api\\controllers\\djcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.application\\dtos\\saloncreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|solutionrelative:bookingeventos.application\\dtos\\saloncreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.application\\dtos\\djcreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|solutionrelative:bookingeventos.application\\dtos\\djcreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.application\\dtos\\usuarioregistrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|solutionrelative:bookingeventos.application\\dtos\\usuarioregistrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49318BB2-4AAB-B15F-79ED-40D7B1406B05}|BookingEventos.Api\\BookingEventos.Api.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49318BB2-4AAB-B15F-79ED-40D7B1406B05}|BookingEventos.Api\\BookingEventos.Api.csproj|solutionrelative:bookingeventos.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|solutionrelative:bookingeventos.application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|solutionrelative:bookingeventos.application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16B235-5511-2688-129B-C6CC60939FA3}|BookingEventos.Infrastructure\\BookingEventos.Infrastructure.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.infrastructure\\repositories\\djrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D16B235-5511-2688-129B-C6CC60939FA3}|BookingEventos.Infrastructure\\BookingEventos.Infrastructure.csproj|solutionrelative:bookingeventos.infrastructure\\repositories\\djrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15903390-CCF3-BBE1-BEB7-8F222F1249E6}|BookingEventos.Domain\\BookingEventos.Domain.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.domain\\ports\\idjrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15903390-CCF3-BBE1-BEB7-8F222F1249E6}|BookingEventos.Domain\\BookingEventos.Domain.csproj|solutionrelative:bookingeventos.domain\\ports\\idjrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.application\\services\\djservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|solutionrelative:bookingeventos.application\\services\\djservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.application\\interfaces\\idjservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|solutionrelative:bookingeventos.application\\interfaces\\idjservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.application\\interfaces\\ibartenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|solutionrelative:bookingeventos.application\\interfaces\\ibartenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.application\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|solutionrelative:bookingeventos.application\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15903390-CCF3-BBE1-BEB7-8F222F1249E6}|BookingEventos.Domain\\BookingEventos.Domain.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15903390-CCF3-BBE1-BEB7-8F222F1249E6}|BookingEventos.Domain\\BookingEventos.Domain.csproj|solutionrelative:bookingeventos.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49318BB2-4AAB-B15F-79ED-40D7B1406B05}|BookingEventos.Api\\BookingEventos.Api.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49318BB2-4AAB-B15F-79ED-40D7B1406B05}|BookingEventos.Api\\BookingEventos.Api.csproj|solutionrelative:bookingeventos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15903390-CCF3-BBE1-BEB7-8F222F1249E6}|BookingEventos.Domain\\BookingEventos.Domain.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.domain\\entities\\bartender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15903390-CCF3-BBE1-BEB7-8F222F1249E6}|BookingEventos.Domain\\BookingEventos.Domain.csproj|solutionrelative:bookingeventos.domain\\entities\\bartender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15903390-CCF3-BBE1-BEB7-8F222F1249E6}|BookingEventos.Domain\\BookingEventos.Domain.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.domain\\entities\\tipocoptel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15903390-CCF3-BBE1-BEB7-8F222F1249E6}|BookingEventos.Domain\\BookingEventos.Domain.csproj|solutionrelative:bookingeventos.domain\\entities\\tipocoptel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|solutionrelative:bookingeventos.application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16B235-5511-2688-129B-C6CC60939FA3}|BookingEventos.Infrastructure\\BookingEventos.Infrastructure.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.infrastructure\\repositories\\salonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D16B235-5511-2688-129B-C6CC60939FA3}|BookingEventos.Infrastructure\\BookingEventos.Infrastructure.csproj|solutionrelative:bookingeventos.infrastructure\\repositories\\salonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16B235-5511-2688-129B-C6CC60939FA3}|BookingEventos.Infrastructure\\BookingEventos.Infrastructure.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.infrastructure\\repositories\\bartenderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D16B235-5511-2688-129B-C6CC60939FA3}|BookingEventos.Infrastructure\\BookingEventos.Infrastructure.csproj|solutionrelative:bookingeventos.infrastructure\\repositories\\bartenderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15903390-CCF3-BBE1-BEB7-8F222F1249E6}|BookingEventos.Domain\\BookingEventos.Domain.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.domain\\ports\\ibartenderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15903390-CCF3-BBE1-BEB7-8F222F1249E6}|BookingEventos.Domain\\BookingEventos.Domain.csproj|solutionrelative:bookingeventos.domain\\ports\\ibartenderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15903390-CCF3-BBE1-BEB7-8F222F1249E6}|BookingEventos.Domain\\BookingEventos.Domain.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.domain\\ports\\isalonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15903390-CCF3-BBE1-BEB7-8F222F1249E6}|BookingEventos.Domain\\BookingEventos.Domain.csproj|solutionrelative:bookingeventos.domain\\ports\\isalonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.application\\interfaces\\ireservaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|solutionrelative:bookingeventos.application\\interfaces\\ireservaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.application\\interfaces\\isalonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF63330-2743-3D1B-98F7-B08BFE5ADCE6}|BookingEventos.Application\\BookingEventos.Application.csproj|solutionrelative:bookingeventos.application\\interfaces\\isalonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15903390-CCF3-BBE1-BEB7-8F222F1249E6}|BookingEventos.Domain\\BookingEventos.Domain.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.domain\\entities\\generomusical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15903390-CCF3-BBE1-BEB7-8F222F1249E6}|BookingEventos.Domain\\BookingEventos.Domain.csproj|solutionrelative:bookingeventos.domain\\entities\\generomusical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15903390-CCF3-BBE1-BEB7-8F222F1249E6}|BookingEventos.Domain\\BookingEventos.Domain.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.domain\\entities\\dj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15903390-CCF3-BBE1-BEB7-8F222F1249E6}|BookingEventos.Domain\\BookingEventos.Domain.csproj|solutionrelative:bookingeventos.domain\\entities\\dj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15903390-CCF3-BBE1-BEB7-8F222F1249E6}|BookingEventos.Domain\\BookingEventos.Domain.csproj|c:\\users\\pc\\desktop\\proyectoc#\\bookingeventos\\bookingeventos.domain\\entities\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15903390-CCF3-BBE1-BEB7-8F222F1249E6}|BookingEventos.Domain\\BookingEventos.Domain.csproj|solutionrelative:bookingeventos.domain\\entities\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 31,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Api\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Api\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Api\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "BookingEventos.Api\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T02:52:00.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NegocioException.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Domain\\Exception\\NegocioException.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Domain\\Exception\\NegocioException.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Domain\\Exception\\NegocioException.cs",
+              "RelativeToolTip": "BookingEventos.Domain\\Exception\\NegocioException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T02:46:56.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservaController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Api\\Controllers\\ReservaController.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Api\\Controllers\\ReservaController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Api\\Controllers\\ReservaController.cs",
+              "RelativeToolTip": "BookingEventos.Api\\Controllers\\ReservaController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T01:31:28.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalonController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Api\\Controllers\\SalonController.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Api\\Controllers\\SalonController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Api\\Controllers\\SalonController.cs",
+              "RelativeToolTip": "BookingEventos.Api\\Controllers\\SalonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T01:30:45.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DjController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Api\\Controllers\\DjController.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Api\\Controllers\\DjController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Api\\Controllers\\DjController.cs",
+              "RelativeToolTip": "BookingEventos.Api\\Controllers\\DjController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T01:29:34.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BartenderController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Api\\Controllers\\BartenderController.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Api\\Controllers\\BartenderController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Api\\Controllers\\BartenderController.cs",
+              "RelativeToolTip": "BookingEventos.Api\\Controllers\\BartenderController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T01:14:48.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Api\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Api\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Api\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "BookingEventos.Api\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T17:18:39.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Application\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Services\\JwtService.cs",
+              "RelativeToolTip": "BookingEventos.Application\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T16:44:16.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Application\\Interfaces\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "BookingEventos.Application\\Interfaces\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T16:43:37.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Api\\Program.cs",
+              "RelativeToolTip": "BookingEventos.Api\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T16:33:01.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "BookingEventos.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Api\\appsettings.json",
+              "RelativeToolTip": "BookingEventos.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-08T16:30:07.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GeneroMusical.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Domain\\Entities\\GeneroMusical.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Domain\\Entities\\GeneroMusical.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Domain\\Entities\\GeneroMusical.cs",
+              "RelativeToolTip": "BookingEventos.Domain\\Entities\\GeneroMusical.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T15:42:26.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalonService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Services\\SalonService.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Application\\Services\\SalonService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Services\\SalonService.cs",
+              "RelativeToolTip": "BookingEventos.Application\\Services\\SalonService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T14:49:03.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DjService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Services\\DjService.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Application\\Services\\DjService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Services\\DjService.cs",
+              "RelativeToolTip": "BookingEventos.Application\\Services\\DjService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T14:48:48.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BartenderService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Services\\BartenderService.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Application\\Services\\BartenderService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Services\\BartenderService.cs",
+              "RelativeToolTip": "BookingEventos.Application\\Services\\BartenderService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T14:48:38.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ISalonService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Interfaces\\ISalonService.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Application\\Interfaces\\ISalonService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Interfaces\\ISalonService.cs",
+              "RelativeToolTip": "BookingEventos.Application\\Interfaces\\ISalonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T14:37:36.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IBartenderService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Interfaces\\IBartenderService.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Application\\Interfaces\\IBartenderService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Interfaces\\IBartenderService.cs",
+              "RelativeToolTip": "BookingEventos.Application\\Interfaces\\IBartenderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T14:37:19.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IDjService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Interfaces\\IDjService.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Application\\Interfaces\\IDjService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Interfaces\\IDjService.cs",
+              "RelativeToolTip": "BookingEventos.Application\\Interfaces\\IDjService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T14:36:57.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Dj.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Domain\\Entities\\Dj.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Domain\\Entities\\Dj.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Domain\\Entities\\Dj.cs",
+              "RelativeToolTip": "BookingEventos.Domain\\Entities\\Dj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T14:35:35.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Bartender.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Domain\\Entities\\Bartender.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Domain\\Entities\\Bartender.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Domain\\Entities\\Bartender.cs",
+              "RelativeToolTip": "BookingEventos.Domain\\Entities\\Bartender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T14:34:42.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TipoCoptel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Domain\\Entities\\TipoCoptel.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Domain\\Entities\\TipoCoptel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Domain\\Entities\\TipoCoptel.cs",
+              "RelativeToolTip": "BookingEventos.Domain\\Entities\\TipoCoptel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T14:34:10.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BartenderCreacionDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\DTOs\\BartenderCreacionDto.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Application\\DTOs\\BartenderCreacionDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\DTOs\\BartenderCreacionDto.cs",
+              "RelativeToolTip": "BookingEventos.Application\\DTOs\\BartenderCreacionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T14:29:28.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DjCreacionDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\DTOs\\DjCreacionDto.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Application\\DTOs\\DjCreacionDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\DTOs\\DjCreacionDto.cs",
+              "RelativeToolTip": "BookingEventos.Application\\DTOs\\DjCreacionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T14:29:09.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SalonCreacionDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\DTOs\\SalonCreacionDto.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Application\\DTOs\\SalonCreacionDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\DTOs\\SalonCreacionDto.cs",
+              "RelativeToolTip": "BookingEventos.Application\\DTOs\\SalonCreacionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T14:28:56.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SalonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Infrastructure\\Repositories\\SalonRepository.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Infrastructure\\Repositories\\SalonRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Infrastructure\\Repositories\\SalonRepository.cs",
+              "RelativeToolTip": "BookingEventos.Infrastructure\\Repositories\\SalonRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAtwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T13:55:24.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DjRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Infrastructure\\Repositories\\DjRepository.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Infrastructure\\Repositories\\DjRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Infrastructure\\Repositories\\DjRepository.cs",
+              "RelativeToolTip": "BookingEventos.Infrastructure\\Repositories\\DjRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T13:55:00.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BartenderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Infrastructure\\Repositories\\BartenderRepository.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Infrastructure\\Repositories\\BartenderRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Infrastructure\\Repositories\\BartenderRepository.cs",
+              "RelativeToolTip": "BookingEventos.Infrastructure\\Repositories\\BartenderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAACBjwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T13:54:50.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IBartenderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Domain\\Ports\\IBartenderRepository.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Domain\\Ports\\IBartenderRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Domain\\Ports\\IBartenderRepository.cs",
+              "RelativeToolTip": "BookingEventos.Domain\\Ports\\IBartenderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T13:46:09.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IDjRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Domain\\Ports\\IDjRepository.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Domain\\Ports\\IDjRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Domain\\Ports\\IDjRepository.cs",
+              "RelativeToolTip": "BookingEventos.Domain\\Ports\\IDjRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T13:45:45.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ISalonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Domain\\Ports\\ISalonRepository.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Domain\\Ports\\ISalonRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Domain\\Ports\\ISalonRepository.cs",
+              "RelativeToolTip": "BookingEventos.Domain\\Ports\\ISalonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T13:45:20.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Domain\\Entities\\Reserva.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Domain\\Entities\\Reserva.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Domain\\Entities\\Reserva.cs",
+              "RelativeToolTip": "BookingEventos.Domain\\Entities\\Reserva.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA4wCEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T13:27:58.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservaService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Services\\ReservaService.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Application\\Services\\ReservaService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Services\\ReservaService.cs",
+              "RelativeToolTip": "BookingEventos.Application\\Services\\ReservaService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T13:23:34.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IReservaService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Interfaces\\IReservaService.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Application\\Interfaces\\IReservaService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Interfaces\\IReservaService.cs",
+              "RelativeToolTip": "BookingEventos.Application\\Interfaces\\IReservaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T13:22:36.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservaCreacionDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\DTOs\\ReservaCreacionDto.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Application\\DTOs\\ReservaCreacionDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\DTOs\\ReservaCreacionDto.cs",
+              "RelativeToolTip": "BookingEventos.Application\\DTOs\\ReservaCreacionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T13:17:30.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\DTOs\\UsuarioLoginDto.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Application\\DTOs\\UsuarioLoginDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\DTOs\\UsuarioLoginDto.cs",
+              "RelativeToolTip": "BookingEventos.Application\\DTOs\\UsuarioLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T12:59:37.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "BookingEventos.Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T12:27:42.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Application\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "BookingEventos.Application\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowC8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T12:30:18.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Application\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "BookingEventos.Application\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T12:28:54.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsuarioRegistroDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\DTOs\\UsuarioRegistroDto.cs",
+              "RelativeDocumentMoniker": "BookingEventos.Application\\DTOs\\UsuarioRegistroDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\proyectoC#\\BookingEventos\\BookingEventos.Application\\DTOs\\UsuarioRegistroDto.cs",
+              "RelativeToolTip": "BookingEventos.Application\\DTOs\\UsuarioRegistroDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T12:26:31.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

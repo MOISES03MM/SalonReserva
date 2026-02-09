@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="BookingEventos.Api/BookingEventos.Api.csproj" />
+  <Project Path="BookingEventos.Application/BookingEventos.Application.csproj" />
+  <Project Path="BookingEventos.Domain/BookingEventos.Domain.csproj" />
+  <Project Path="BookingEventos.Infrastructure/BookingEventos.Infrastructure.csproj" />
+</Solution>

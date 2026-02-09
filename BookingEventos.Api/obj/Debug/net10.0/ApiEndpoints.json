@@ -1,0 +1,128 @@
+[
+  {
+    "ContainingType": "BookingEventos.Api.Controllers.BartenderController",
+    "Method": "CrearBartender",
+    "RelativePath": "api/bartender",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "datos",
+        "Type": "BookingEventos.Application.DTOs.BartenderCreacionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookingEventos.Api.Controllers.BartenderController",
+    "Method": "ObtenerTodos",
+    "RelativePath": "api/bartender",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookingEventos.Api.Controllers.DjController",
+    "Method": "ObtenerTodo",
+    "RelativePath": "api/djs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookingEventos.Api.Controllers.DjController",
+    "Method": "Agregar",
+    "RelativePath": "api/djs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "BookingEventos.Application.DTOs.DjCreacionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookingEventos.Api.Controllers.ReservaController",
+    "Method": "CrearReserva",
+    "RelativePath": "api/reservas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "BookingEventos.Application.DTOs.ReservaCreacionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookingEventos.Api.Controllers.SalonController",
+    "Method": "ObtenerTodo",
+    "RelativePath": "api/salones",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookingEventos.Api.Controllers.SalonController",
+    "Method": "Agregar",
+    "RelativePath": "api/salones",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "BookingEventos.Application.DTOs.SalonCreacionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookingEventos.Api.Controllers.UsuariosController",
+    "Method": "Login",
+    "RelativePath": "api/usuarios/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "BookingEventos.Application.DTOs.UsuarioLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookingEventos.Api.Controllers.UsuariosController",
+    "Method": "Registro",
+    "RelativePath": "api/usuarios/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registro",
+        "Type": "BookingEventos.Application.DTOs.UsuarioRegistroDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

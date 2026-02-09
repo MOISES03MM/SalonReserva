@@ -1,0 +1,30 @@
+services:
+  db:
+    image: mysql:8.0
+    container_name: mysql_booking
+    restart: always
+    environment:
+      - MYSQL_ROOT_PASSWORD=TuPasswordFuerte123!
+      - MYSQL_DATABASE=booking_db
+    ports:
+      - "3307:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: booking_api
+    depends_on:
+      - db
+    ports:
+      - "7040:8080" # Tu API corre en el 8080 dentro del contenedor
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=db;Port=3306;Database=booking_db;Uid=root;Pwd=TuPasswordFuerte123!;
+      - Jwt__Key=TuClaveSuperSecretaDe32CaracteresMinimo
+      - Jwt__Issuer=BookingEvents
+      - Jwt__Audience=BookingUsers
+
+volumes:
+  mysql_data:

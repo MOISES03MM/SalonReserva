@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Infrastructure\bin\Debug\net10.0\BookingEventos.Infrastructure.deps.json
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Infrastructure\bin\Debug\net10.0\BookingEventos.Infrastructure.dll
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Infrastructure\bin\Debug\net10.0\BookingEventos.Infrastructure.pdb
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Infrastructure\bin\Debug\net10.0\BookingEventos.Application.dll
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Infrastructure\bin\Debug\net10.0\BookingEventos.Domain.dll
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Infrastructure\bin\Debug\net10.0\BookingEventos.Application.pdb
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Infrastructure\bin\Debug\net10.0\BookingEventos.Domain.pdb
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Infrastructure\obj\Debug\net10.0\BookingEventos.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Infrastructure\obj\Debug\net10.0\BookingEventos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Infrastructure\obj\Debug\net10.0\BookingEventos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Infrastructure\obj\Debug\net10.0\BookingEventos.Infrastructure.AssemblyInfo.cs
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Infrastructure\obj\Debug\net10.0\BookingEventos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Infrastructure\obj\Debug\net10.0\BookingE.9A06A180.Up2Date
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Infrastructure\obj\Debug\net10.0\BookingEventos.Infrastructure.dll
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Infrastructure\obj\Debug\net10.0\refint\BookingEventos.Infrastructure.dll
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Infrastructure\obj\Debug\net10.0\BookingEventos.Infrastructure.pdb
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Infrastructure\obj\Debug\net10.0\ref\BookingEventos.Infrastructure.dll

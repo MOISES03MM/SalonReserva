@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Domain\bin\Debug\net10.0\BookingEventos.Domain.deps.json
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Domain\bin\Debug\net10.0\BookingEventos.Domain.dll
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Domain\bin\Debug\net10.0\BookingEventos.Domain.pdb
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Domain\obj\Debug\net10.0\BookingEventos.Domain.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Domain\obj\Debug\net10.0\BookingEventos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Domain\obj\Debug\net10.0\BookingEventos.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Domain\obj\Debug\net10.0\BookingEventos.Domain.AssemblyInfo.cs
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Domain\obj\Debug\net10.0\BookingEventos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Domain\obj\Debug\net10.0\BookingEventos.Domain.dll
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Domain\obj\Debug\net10.0\refint\BookingEventos.Domain.dll
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Domain\obj\Debug\net10.0\BookingEventos.Domain.pdb
+C:\Users\PC\Desktop\proyectoC#\BookingEventos\BookingEventos.Domain\obj\Debug\net10.0\ref\BookingEventos.Domain.dll
